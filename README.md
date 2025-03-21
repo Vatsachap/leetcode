@@ -47,6 +47,6 @@ git checkout main
 git pull --rebase
 
 # delete branch
-git branch -D vatsa/question-divide-max-count
+git branch -D vatsa/question-divide-max-count.
 
 ```
